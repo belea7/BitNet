@@ -17,5 +17,6 @@ The program prints informative messages:
 **The network has 100% success rate.**
 
 ![alt text](https://github.com/belea7/BitNet/blob/main/pictures/train%20and%20test%20set.PNG?raw=true)
+
 ![alt text](https://github.com/belea7/BitNet/blob/main/pictures/misclassifies%20overtime.PNG?raw=true)
 ![alt text](https://github.com/belea7/BitNet/blob/main/pictures/test%20set%20results.PNG?raw=true)
