@@ -13,4 +13,5 @@ The program prints informative messages:
 - number of exmples from each category in the train and test sets
 - how many examples from each category were missclassified in every iteration of the training algorithm
 - the success rates of the nework on the test set
+The network has 100% success rate.
 
