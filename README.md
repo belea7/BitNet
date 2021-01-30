@@ -1,7 +1,9 @@
 Neural network tha classifies binary numbers by the number 1 bits in it
 -------
 **The program implements the neural network entirely (without using external modules).**
+
 **Python modules: numpy, tabulate, termcolor.**
+
 **Biological Computation course at The Open University of Israel**
 
 I implemented a Perceptron neural network that solves the following problem: given a binary number containing 21 digets, does it contain more 1's than 0's or more 0's than 1's.
